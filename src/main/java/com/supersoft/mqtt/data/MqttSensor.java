@@ -1,4 +1,4 @@
-package com.supersoft.mqtt;
+package com.supersoft.mqtt.data;
 
 import lombok.Data;
 
